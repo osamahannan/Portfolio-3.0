@@ -15,13 +15,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Frontend Developer</h4>
-                <h5>Brimo Software Solutions</h5>
+                <h4>Senior Frontend Developer</h4>
+                <h5>Innovgeist</h5>
               </div>
-              <h3>2022</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Worked as a Frontend Developer building scalable React and Next.js based eCommerce platforms and dashboards. Contributed to developing high-performance UI features, including a voucher engine with bundle discounts, and optimized frontend performance using advanced JavaScript techniques. Collaborated closely with backend teams to integrate APIs, improve SEO through server-side rendering, and enhance user experience while mentoring junior developers and maintaining high code quality.
+              Senior Frontend Developer responsible for developing and maintaining React.js-based SaaS applications, with a focus on appointment booking, provider management, real-time queue tracking, and business operations. Developed responsive admin panels using React, Redux, and Material UI, along with subscription, voucher, discount, and payment modules to support end-to-end platform workflows.
             </p>
           </div>
           <div className="career-info-box">
@@ -34,6 +34,18 @@ const Career = () => {
             </div>
             <p>
               Worked on multiple web and mobile applications using React, React Native, and modern JavaScript frameworks. Contributed to a multi-tenant eCommerce analytics platform that provides competitive intelligence for brands. Developed interactive gaming interfaces and helped build scalable frontend architectures while integrating backend APIs. Also worked on a React Native social meetup application enabling users to create events, connect with others, and manage meeting points.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Frontend Developer</h4>
+                <h5>Brimo Software Solutions</h5>
+              </div>
+              <h3>2022</h3>
+            </div>
+            <p>
+              Worked as a Frontend Developer building scalable React and Next.js based eCommerce platforms and dashboards. Contributed to developing high-performance UI features, including a voucher engine with bundle discounts, and optimized frontend performance using advanced JavaScript techniques. Collaborated closely with backend teams to integrate APIs, improve SEO through server-side rendering, and enhance user experience while mentoring junior developers and maintaining high code quality.
             </p>
           </div>
           {/* <div className="career-info-box">
